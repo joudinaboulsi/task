@@ -1,4 +1,4 @@
-@extends('admin.master')
+@extends('layouts.template.master')
 @section('title')
     Categories
 @stop

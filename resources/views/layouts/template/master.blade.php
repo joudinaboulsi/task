@@ -22,9 +22,9 @@
   <div id="app">
     <div class="main-wrapper main-wrapper-1">
       <div class="navbar-bg"></div>
-      @include('admin.header')
+      @include('layouts.template.header')
       <div class="main-sidebar sidebar-style-2">
-        @include('admin.sidebar')
+        @include('layouts.template.sidebar')
       </div>
       <!-- Main Content -->
       <div class="main-content">

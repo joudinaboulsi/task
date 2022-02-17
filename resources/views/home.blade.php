@@ -1,4 +1,5 @@
-@extends('admin.master')
-@section('title')
-    home 
-@stop
+@extends('layouts.template.master')
+
+@section('content')
+joudi
+@endsection
